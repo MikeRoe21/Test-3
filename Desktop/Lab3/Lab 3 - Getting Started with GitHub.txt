@@ -1,5 +1,7 @@
 Lab 3 - Getting Started with GitHub
 
+THIS TEXT IS AN EDIT FOR LAB3
+
 This lab is to introduce you to GitHub, the IT industry's current standard for Source Control and team collaboration.  To complete the lab:
 
 - Create a new repository called Lab 3
